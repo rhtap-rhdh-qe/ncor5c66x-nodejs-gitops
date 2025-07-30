@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ncor5c66x-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ncor5c66x-nodejs
